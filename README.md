@@ -1,5 +1,6 @@
 # rad_budget
-Radiative Budget of the Earth-Atmosphere system (CERES)
+
+Study the radiative Budget of the Earth-Atmosphere system (CERES data)
 
 Note 1 : This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English.
 
