@@ -6,7 +6,7 @@ Note 1 : This code was developed for educationnal purposes, and for French stude
 
 Note 2 : If you have any comment/suggestion, if you find this code useful --> please send me an email : mailto:frederic.ferry@meteo.fr
 
-The CERES data needed to run the notebook can be downloaded here : https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF_Edition4.1
+The CERES data needed to run the notebook can be downloaded here : https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF_Edition4.2
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
